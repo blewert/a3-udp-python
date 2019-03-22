@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:\\Users\\User\\Anaconda3\\python.exe",
+    //"python.linting.pylintCategorySeverity.warning": "Information"
+    "python.linting.pylintArgs": [
+        "--disable=all",
+        "--enable=F,E,unreachable,duplicate-key,global-variable-not-assigned,unused-variable,binary-op-exception,bad-format-string,anomalous-backslash-in-string,bad-open-mode"
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
